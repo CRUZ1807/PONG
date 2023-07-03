@@ -2,3 +2,6 @@ body {
     text-align: center;
     background-color: black;
 }
+canvas{
+    margin-top: -300px;
+}
